@@ -1,0 +1,74 @@
+[2022-09-07 08:30:02,695] I kiwoom.py | Kiwoom-__init__-0809 I DEBUG    > Kiwoom() class start.
+[2022-09-07 08:30:48,859] I kiwoom.py | Kiwoom-login_slot-0896 I DEBUG    > 정상처리
+[2022-09-07 08:30:48,860] I kiwoom.py | Kiwoom-get_account_info-0907 I DEBUG    > 계좌번호 : 8030331211
+[2022-09-07 08:30:48,893] I kiwoom.py | Kiwoom-msg_slot-1513 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [100000] 모의투자 조회완료
+[2022-09-07 08:30:48,895] I kiwoom.py | Kiwoom-trdata_slot-0949 I DEBUG    > 예수금 : 10009433
+[2022-09-07 08:30:48,959] I kiwoom.py | Kiwoom-msg_slot-1513 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [571578] 모의투자 해당조회내역이 없습니다.
+[2022-09-07 08:30:48,960] I kiwoom.py | Kiwoom-trdata_slot-0963 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2022-09-07 08:30:48,960] I kiwoom.py | Kiwoom-trdata_slot-1002 I DEBUG    > sPreNext : 
+[2022-09-07 08:30:48,961] I kiwoom.py | Kiwoom-trdata_slot-1003 I DEBUG    > 계좌에 가지고 있는 종목은 0 
+[2022-09-07 08:30:53,967] I kiwoom.py | Kiwoom-not_concluded_account-0928 I DEBUG    > 미체결 종목 요청
+[2022-09-07 08:30:53,998] I kiwoom.py | Kiwoom-msg_slot-1513 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2022-09-07 08:30:58,963] I kiwoom.py | Kiwoom-screen_number_setting-1260 I DEBUG    > {}
+[2022-09-07 08:42:51,616] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:43:51,520] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:44:51,524] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:45:51,521] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:46:51,526] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:47:51,524] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:48:51,528] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:49:51,528] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:50:51,522] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:51:51,524] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:52:51,524] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:53:51,518] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:54:51,516] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:55:51,523] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:56:51,526] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:57:51,519] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:58:51,523] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 08:59:51,530] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:00:51,517] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:01:51,530] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:01,518] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:11,521] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:21,519] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:31,523] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:41,526] I kiwoom.py | Kiwoom-realdata_slot-1268 I DEBUG    > 장 시작 전
+[2022-09-07 09:02:51,726] I kiwoom.py | Kiwoom-realdata_slot-1271 I DEBUG    > 장 시작
+[2022-09-07 11:52:46,735] I kiwoom.py | Kiwoom-__init__-0810 I DEBUG    > Kiwoom() class start.
+[2022-09-07 11:52:57,559] I kiwoom.py | Kiwoom-login_slot-0909 I DEBUG    > 정상처리
+[2022-09-07 11:52:57,559] I kiwoom.py | Kiwoom-get_account_info-0920 I DEBUG    > 계좌번호 : 8030331211
+[2022-09-07 11:52:58,462] I kiwoom.py | Kiwoom-msg_slot-1592 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [100000] 모의투자 조회완료
+[2022-09-07 11:52:58,464] I kiwoom.py | Kiwoom-trdata_slot-0965 I DEBUG    > 예수금 : 10009433
+[2022-09-07 11:52:58,539] I kiwoom.py | Kiwoom-msg_slot-1592 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [571578] 모의투자 해당조회내역이 없습니다.
+[2022-09-07 11:52:58,540] I kiwoom.py | Kiwoom-trdata_slot-0980 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2022-09-07 11:52:58,540] I kiwoom.py | Kiwoom-trdata_slot-1020 I DEBUG    > sPreNext : 
+[2022-09-07 11:53:03,563] I kiwoom.py | Kiwoom-msg_slot-1592 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2022-09-07 11:54:19,526] I kiwoom.py | Kiwoom-__init__-0810 I DEBUG    > Kiwoom() class start.
+[2022-09-07 11:54:25,523] I kiwoom.py | Kiwoom-login_slot-0904 I DEBUG    > 정상처리
+[2022-09-07 11:54:25,524] I kiwoom.py | Kiwoom-get_account_info-0915 I DEBUG    > 계좌번호 : 8030331211
+[2022-09-07 11:54:26,428] I kiwoom.py | Kiwoom-msg_slot-1587 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [100000] 모의투자 조회완료
+[2022-09-07 11:54:26,429] I kiwoom.py | Kiwoom-trdata_slot-0960 I DEBUG    > 예수금 : 10009433
+[2022-09-07 11:54:26,514] I kiwoom.py | Kiwoom-msg_slot-1587 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [571578] 모의투자 해당조회내역이 없습니다.
+[2022-09-07 11:54:26,515] I kiwoom.py | Kiwoom-trdata_slot-0975 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2022-09-07 11:54:26,516] I kiwoom.py | Kiwoom-trdata_slot-1015 I DEBUG    > sPreNext : 
+[2022-09-07 11:54:31,566] I kiwoom.py | Kiwoom-msg_slot-1587 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2022-09-07 15:22:51,686] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:23:51,586] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:24:51,575] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:25:51,577] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:26:51,579] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:27:51,574] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:28:51,582] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:29:51,587] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:30:51,578] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:31:51,676] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:01,585] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:11,573] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:21,581] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:31,570] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:41,585] I kiwoom.py | Kiwoom-realdata_slot-1330 I DEBUG    > 장 종료, 동시호가로 넘어감
+[2022-09-07 15:32:51,585] I kiwoom.py | Kiwoom-realdata_slot-1333 I DEBUG    > 3시30분 장 종료
+[2022-09-07 15:32:56,607] I kiwoom.py | Kiwoom-calculator_fnc-1217 I DEBUG    > 코스닥 갯수 1582 
+[2022-09-07 15:32:56,612] I kiwoom.py | Kiwoom-calculator_fnc-1222 I DEBUG    > 1 / 1582 :  KOSDAQ Stock Code : 900110 is updating... 
